@@ -1,0 +1,4 @@
+DevOps Internship - Task 4
+Project: Git Version Control Workflow
+Tools: Git, GitHub and VS Code
+Purpose: Demonstrate Git branching, commits, merging and collaboration.

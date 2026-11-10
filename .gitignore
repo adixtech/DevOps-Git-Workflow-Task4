@@ -1,0 +1,24 @@
+# VS Code settings
+.vscode/
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment files
+.env
+.env.*
+
+# Backup files
+*.bak
+*.old
+
+# OS files
+.DS_Store
