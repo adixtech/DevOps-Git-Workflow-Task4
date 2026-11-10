@@ -23,3 +23,8 @@ Git tags identify important versions of the project.
 
 ## 8. .gitignore
 The .gitignore file prevents unnecessary files from being tracked by Git.
+## 9. Feature Branch Development
+
+A feature branch allows developers to work on new changes separately without directly modifying the main branch.
+
+After completing the changes, developers commit their work and create a Pull Request for review before merging into the dev branch.
